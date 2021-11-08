@@ -1,2 +1,2 @@
 # Blockchain
-Public and Private Blockchain 
+Crytocurrency Trading, Training materials
